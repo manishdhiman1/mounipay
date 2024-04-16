@@ -1,0 +1,21 @@
+RewriteEngine On
+
+# Rewrite rule for /contact to contact.php
+
+RewriteRule ^contact$ contact.php [NC,L]
+
+# Rewrite rule for /about to about.php
+
+RewriteRule ^about$ about.php [NC,L]
+
+# Rewrite rule for /about to about.php
+
+RewriteRule ^home$ index.php [NC,L]
+RewriteRule ^OurServices$ services.php [NC,L]
+RewriteRule ^bbps$ bbps.php [NC,L]
+RewriteRule ^OutPartners$ partners.php [NC,L]
+RewriteRule ^whyus$ whyus.php [NC,L]
+RewriteRule ^login$ login.php [NC,L]
+RewriteRule ^privacypolicy$ privacypolicy.php [NC,L]
+RewriteRule ^termsandcondition$ termsandcondition.php [NC,L]
+RewriteRule ^refundpolicy$ refundpolicy.php [NC,L]
