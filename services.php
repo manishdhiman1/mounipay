@@ -45,7 +45,7 @@
     <div id="root">
         <div class="ltr " dir="ltr">
             <div class="body">
-            <?php
+                <?php
 
 include  "includes/header.php";
 
@@ -63,7 +63,7 @@ include  "includes/header.php";
                         </path>
                     </svg>
                     <div class="container-fluid position-relative z-index-1">
-                        <div class="custom-circle custom-circle-medium custom-circle-pos-17 appear-animation"
+                        <!-- <div class="custom-circle custom-circle-medium custom-circle-pos-17 appear-animation"
                             data-appear-animation="expandIn" data-appear-animation-delay="200">
                             <div class="bg-color-quaternary rounded-circle w-100 h-100" data-plugin-float-element=""
                                 data-plugin-options="{'startPos': 'bottom', 'speed': 0.5, 'transition': true, 'transitionDuration': 2000}">
@@ -80,7 +80,7 @@ include  "includes/header.php";
                             <div class="custom-bg-color-grey-2 rounded-circle w-100 h-100" data-plugin-float-element=""
                                 data-plugin-options="{'startPos': 'bottom', 'speed': 0.5, 'transition': true, 'transitionDuration': 1000}">
                             </div>
-                        </div>
+                        </div> -->
                         <div class="row justify-content-center mb-4">
                             <div class="col-8 text-center">
                                 <div class="overflow-hidden mb-2">
@@ -172,7 +172,7 @@ include  "includes/header.php";
                                 </div>
                             </div>
                         </div>
-                        <div class="custom-circle custom-circle-big custom-circle-pos-20 appear-animation animated expandInWithBlur appear-animation-visible"
+                        <!-- <div class="custom-circle custom-circle-big custom-circle-pos-20 appear-animation animated expandInWithBlur appear-animation-visible"
                             data-appear-animation="expandInWithBlur" data-appear-animation-delay="200"
                             data-appear-animation-duration="2s" style="animation-duration: 2s; animation-delay: 200ms;">
                             <div class="bg-color-secondary rounded-circle w-100 h-100" data-plugin-float-element=""
@@ -199,7 +199,7 @@ include  "includes/header.php";
                             <div class="custom-bg-color-grey-2 rounded-circle w-100 h-100" data-plugin-float-element=""
                                 data-plugin-options="{'startPos': 'bottom', 'speed': 0.5, 'transition': true, 'transitionDuration': 1500}">
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </section>
             </div>

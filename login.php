@@ -52,8 +52,7 @@
                                 <div class="col-md-6 tab-100 order_2"></div>
                                 <div class="col-md-6 tab-100">
                                     <div class="form">
-                                        <h2 class="login-form form-title"><a href="#"><img src="assets/images/logo.png"
-                                                    alt="paysuresh"></a></h2>
+                                        <h2 class="login-form form-title"><a href="#">MouniPay</a></h2>
                                         <h2 class="signup-form form-title">Create your Account!</h2>
                                         <form id="step1" class="login-form" method="post">
                                             <div class="input-field reveal"><input type="text" id="username"

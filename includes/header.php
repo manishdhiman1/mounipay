@@ -64,7 +64,7 @@
                                 class="header-nav-main header-nav-main-square header-nav-main-text-capitalize header-nav-main-effect-1 header-nav-main-sub-effect-1">
                                 <nav class="collapse">
                                     <ul class="nav nav-pills" id="mainNav">
-                                        <li><a class="nav-link active" href="./home">Home</a></li>
+                                        <li><a class="nav-link active" href="./index.php">Home</a></li>
                                         <li><a class="nav-link" href="./About">About Us</a></li>
                                         <li><a class="nav-link" href="./OurServices">Our Services</a>
                                         </li>
