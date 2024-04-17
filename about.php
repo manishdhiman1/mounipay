@@ -83,7 +83,7 @@ include  "includes/header.php";
                             <p>We promise to deliberately join forces with each customer. we are managed the chance to
                                 work with requirements.</p>
                             <h3>Company’s Name</h3>
-                            <p>JANGAMSETTY BHARGAV</p>
+                            <p>Mounipay Digital Services Private Limited</p>
                         </div>
                     </div>
                 </div>
