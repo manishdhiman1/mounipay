@@ -58,7 +58,7 @@ include  "includes/header.php";
                         <div class="row serv"><img src="assets/img/partner.jpg" alt="partner"></div>
                     </section>
                     <div class="container pt-3 mt-4 partner">
-                        <div class="row mb-5">
+<!--                         <div class="row mb-5">
                             <div class="col-lg-3">
                                 <div class="boxes move-up"><img src="assets/img/federral.png" alt=" client-1"></div>
                             </div>
@@ -71,7 +71,7 @@ include  "includes/header.php";
                             <div class="col-lg-3">
                                 <div class="boxes move-up"><img src="assets/img/ICICI.jpg" alt="client-4"></div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
