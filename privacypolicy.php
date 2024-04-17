@@ -121,7 +121,7 @@ include  "includes/header.php";
                                     information as per this privacy policy.</p>
                                 <h3>WEBSITE URL</h3>
                                 <p><a href="https://paysuresh.in/" rel="noreferrer"
-                                        target="_blank">https://paysuresh.in/</a></p>
+                                        target="_blank">https://mouniedupro.com </a></p>
                             </div>
                         </div>
                     </div>
